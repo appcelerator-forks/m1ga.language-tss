@@ -6,14 +6,14 @@
     "atom": "*",
     "node": "*"
   },
-  "homepage": "https://github.com/miga/language-tss/",
+  "homepage": "https://github.com/m1ga/language-tss/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/miga/language-tss/"
+    "url": "https://github.com/m1ga/language-tss/"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/miga/language-tss/issues"
+    "url": "https://github.com/m1ga/language-tss/issues"
   },
   "readme": "# TSS language support in Atom\n\nAdds syntax highlighting and completions to Titanium Alloy TSS files in Atom.",
   "readmeFilename": "README.md",
