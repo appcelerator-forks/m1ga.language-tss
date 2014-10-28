@@ -1,26 +1,18 @@
 {
-  "name": "language-tss",
-  "description": "TSS support in Atom",
-  "version": "0.0.1",
-  "engines": {
-    "atom": "*",
-    "node": "*"
-  },
-  "homepage": "https://github.com/m1ga/language-tss/",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/m1ga/language-tss/"
-  },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/m1ga/language-tss/issues"
-  },
-  "readme": "# TSS language support in Atom\n\nAdds syntax highlighting and completions to Titanium Alloy TSS files in Atom.",
-  "readmeFilename": "README.md",
-  "_id": "language-tss@0.0.1",
-  "dist": {
-    "shasum": ""
-  },
-  "_resolved": "",
-  "_from": ""
+    "version": "0.0.1",
+    "name": "language-tss",
+    "description": "TSS support in Atom",
+    "engines": {
+        "atom": "*",
+        "node": "*"
+    },
+    "homepage": "https://github.com/m1ga/language-tss",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/m1ga/language-tss"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/m1ga/language-tss/issues"
+    }
 }
