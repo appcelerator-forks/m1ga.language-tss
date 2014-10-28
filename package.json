@@ -1,18 +1,18 @@
 {
-    "version": "0.0.1",
-    "name": "language-tss",
-    "description": "TSS support in Atom",
-    "engines": {
-        "atom": "*",
-        "node": "*"
-    },
-    "homepage": "https://github.com/m1ga/language-tss",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/m1ga/language-tss"
-    },
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/m1ga/language-tss/issues"
-    }
+  "version": "0.0.2",
+  "name": "language-tss",
+  "description": "TSS support in Atom",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "homepage": "https://github.com/m1ga/language-tss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m1ga/language-tss"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m1ga/language-tss/issues"
+  }
 }
